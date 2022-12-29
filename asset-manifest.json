@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/showcase-gorilla-nft/static/css/main.7a4e5469.css",
+    "main.js": "/showcase-gorilla-nft/static/js/main.466172b2.js",
+    "static/media/scene.png": "/showcase-gorilla-nft/static/media/scene.3bd866885e61a38f9e2c.png",
+    "static/media/feature.png": "/showcase-gorilla-nft/static/media/feature.ae6a05fd4cc3944f48a2.png",
+    "static/media/home_cards.png": "/showcase-gorilla-nft/static/media/home_cards.f498ce449207e10d7174.png",
+    "static/media/mockup.png": "/showcase-gorilla-nft/static/media/mockup.b97d1ee385f3606deec9.png",
+    "static/media/home_hero.png": "/showcase-gorilla-nft/static/media/home_hero.93d9e8d49f8b7fd4474e.png",
+    "static/media/logo_text.png": "/showcase-gorilla-nft/static/media/logo_text.25b8d347014b904b9470.png",
+    "static/media/firebase.png": "/showcase-gorilla-nft/static/media/firebase.2293b01d7d3f3b913c1c.png",
+    "static/media/github01.png": "/showcase-gorilla-nft/static/media/github01.4c87756b8bb61beecb54.png",
+    "static/media/java.png": "/showcase-gorilla-nft/static/media/java.14cc5f01b6c4e73cc9cc.png",
+    "static/media/react.png": "/showcase-gorilla-nft/static/media/react.9667fe052f9577c58a34.png",
+    "static/media/banner02.svg": "/showcase-gorilla-nft/static/media/banner02.2f6ba07c3ed4697086f7.svg",
+    "static/media/banner03.svg": "/showcase-gorilla-nft/static/media/banner03.a278a430daff7d7a2a6e.svg",
+    "static/media/banner.svg": "/showcase-gorilla-nft/static/media/banner.3c310352a6d940cab963.svg",
+    "static/media/banner04.svg": "/showcase-gorilla-nft/static/media/banner04.b43b10b807bb6396ac49.svg",
+    "index.html": "/showcase-gorilla-nft/index.html",
+    "main.7a4e5469.css.map": "/showcase-gorilla-nft/static/css/main.7a4e5469.css.map",
+    "main.466172b2.js.map": "/showcase-gorilla-nft/static/js/main.466172b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a4e5469.css",
+    "static/js/main.466172b2.js"
+  ]
+}
